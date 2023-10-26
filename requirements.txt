@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+fastapi
+pydantic
+transformers
+uvicorn
+torch
+torchvision
+torchaudio
+email
